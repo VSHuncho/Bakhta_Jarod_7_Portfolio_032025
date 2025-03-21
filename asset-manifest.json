@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Bakhta_Jarod_7_Portfolio_032025/static/css/main.e3506e71.css",
+    "main.js": "/Bakhta_Jarod_7_Portfolio_032025/static/js/main.2cf4140f.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Bakhta_Jarod_7_Portfolio_032025/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Bakhta_Jarod_7_Portfolio_032025/static/js/787.1ed0c42c.chunk.js",
+    "static/media/kasa.png": "/Bakhta_Jarod_7_Portfolio_032025/static/media/kasa.d27f3f2060bb070c546d.png",
+    "static/media/sophiebluel.png": "/Bakhta_Jarod_7_Portfolio_032025/static/media/sophiebluel.4446ac705916b597f157.png",
+    "static/media/monvieuxgrimoire.png": "/Bakhta_Jarod_7_Portfolio_032025/static/media/monvieuxgrimoire.51a790ea2df0a9e4b5d0.png",
+    "static/media/booki.png": "/Bakhta_Jarod_7_Portfolio_032025/static/media/booki.451dc28405e95e11f0d2.png",
+    "static/media/CV.pdf": "/Bakhta_Jarod_7_Portfolio_032025/static/media/CV.9f69446e03f78907777e.pdf",
+    "static/media/home-main.svg": "/Bakhta_Jarod_7_Portfolio_032025/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/Bakhta_Jarod_7_Portfolio_032025/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/home-bg.jpg": "/Bakhta_Jarod_7_Portfolio_032025/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/Bakhta_Jarod_7_Portfolio_032025/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/Bakhta_Jarod_7_Portfolio_032025/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Bakhta_Jarod_7_Portfolio_032025/index.html",
+    "main.e3506e71.css.map": "/Bakhta_Jarod_7_Portfolio_032025/static/css/main.e3506e71.css.map",
+    "main.2cf4140f.js.map": "/Bakhta_Jarod_7_Portfolio_032025/static/js/main.2cf4140f.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Bakhta_Jarod_7_Portfolio_032025/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Bakhta_Jarod_7_Portfolio_032025/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3506e71.css",
+    "static/js/main.2cf4140f.js"
+  ]
+}
